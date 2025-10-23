@@ -1,5 +1,5 @@
 {
-    "name": "hedii/laravel-gelf-logger",
+    "name": "nuwber/hypervel-gelf-logger",
     "description": "A Laravel package to send logs to a gelf compatible backend like graylog",
     "type": "library",
     "license": "MIT",
